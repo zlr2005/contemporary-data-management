@@ -1,0 +1,12 @@
+代码/.venv/
+代码/.data/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+*.pyo
+.env
+.local-secret
+~$*
+node_modules/
+/2026_ECNU_PJ1_2_*.docx
+/2026_ECNU_PJ1_2_*.pdf

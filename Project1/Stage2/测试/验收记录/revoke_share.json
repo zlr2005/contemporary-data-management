@@ -1,0 +1,31 @@
+{
+  "action": "revoke_share",
+  "retained_fork_and_bank_snapshot": true,
+  "surveys": [
+    {
+      "id": "6ada3c3d352e6b68ed47eb4e",
+      "title": "验收_A_原始问卷",
+      "status": "published",
+      "version_id": "6ada3bf2352e6b68ed47eb4a",
+      "responses": 2,
+      "average": 10.0
+    },
+    {
+      "id": "6ada3d21352e6b68ed47eb4f",
+      "title": "验收_B_共享复用",
+      "status": "published",
+      "version_id": "6ada3bf2352e6b68ed47eb4a",
+      "responses": 1,
+      "average": 40.0
+    },
+    {
+      "id": "6ada3d90352e6b68ed47eb51",
+      "title": "验收_C_版本更新",
+      "status": "draft",
+      "version_id": "6ada3ead352e6b68ed47eb56",
+      "responses": 0,
+      "average": null
+    }
+  ],
+  "passed": true
+}

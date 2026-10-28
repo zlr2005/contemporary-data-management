@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "original_documents_and_statistics_unchanged": {
+    "users": 3,
+    "surveys": 4,
+    "responses": 8
+  },
+  "current_counts_including_existing_and_acceptance": {
+    "users": 7,
+    "surveys": 7,
+    "responses": 12
+  }
+}
